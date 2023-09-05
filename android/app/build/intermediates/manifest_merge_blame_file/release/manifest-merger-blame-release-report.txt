@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wildroots"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <queries>
+13-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:11:5-37:15
+14        <intent>
+14-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:12:9-18:18
+15            <action android:name="android.intent.action.VIEW" />
+15-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:13:13-65
+15-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:13:21-62
+16
+17            <data
+17-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:15:13-17:38
+18                android:mimeType="*/*"
+18-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:16:17-39
+19                android:scheme="*" />
+19-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:17:17-35
+20        </intent>
+21        <intent>
+21-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:19:9-28:18
+22            <action android:name="android.intent.action.VIEW" />
+22-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:13:13-65
+22-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:13:21-62
+23
+24            <category android:name="android.intent.category.BROWSABLE" />
+24-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:22:13-74
+24-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:22:23-71
+25
+26            <data
+26-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:15:13-17:38
+27                android:host="pay"
+28                android:mimeType="*/*"
+28-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:16:17-39
+29                android:scheme="upi" />
+29-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:17:17-35
+30        </intent>
+31        <intent>
+31-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:29:9-31:18
+32            <action android:name="android.intent.action.MAIN" />
+32-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:13-65
+32-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:21-62
+33        </intent>
+34        <intent>
+34-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:32:9-36:18
+35            <action android:name="android.intent.action.SEND" />
+35-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:33:13-65
+35-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:33:21-62
+36
+37            <data android:mimeType="*/*" />
+37-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:15:13-17:38
+37-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:16:17-39
+38        </intent>
+39    </queries> <!-- Include required permissions for Google Maps API to run. -->
+40    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+40-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+40-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+41
+42    <uses-feature
+42-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+43        android:glEsVersion="0x00020000"
+43-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+44        android:required="true" />
+44-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+45
+46    <application
+46-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:6:5-25:19
+47        android:name="com.wildroots.MainApplication"
+47-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:7:7-38
+48        android:allowBackup="false"
+48-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:11:7-34
+49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+49-->[androidx.core:core:1.6.0] C:\Users\Admin\.gradle\caches\transforms-3\5c61d7afbc1bcd99cb491da6ba2ee6c1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+50        android:icon="@mipmap/ic_launcher"
+50-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:9:7-41
+51        android:label="@string/app_name"
+51-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:8:7-39
+52        android:roundIcon="@mipmap/ic_launcher_round"
+52-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:10:7-52
+53        android:theme="@style/AppTheme" >
+53-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:12:7-38
+54        <activity
+54-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:13:7-24:18
+55            android:name="com.wildroots.MainActivity"
+55-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:14:9-37
+56            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+56-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:16:9-118
+57            android:exported="true"
+57-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:19:9-32
+58            android:label="@string/app_name"
+58-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:15:9-41
+59            android:launchMode="singleTask"
+59-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:17:9-40
+60            android:windowSoftInputMode="adjustResize" >
+60-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:18:9-51
+61            <intent-filter>
+61-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:20:9-23:25
+62                <action android:name="android.intent.action.MAIN" />
+62-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:13-65
+62-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:21-62
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:22:13-73
+64-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:22:23-70
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->[:react-native-razorpay] D:\react-native\Wildroots\Wildroots\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:86
+68            android:name="com.razorpay.CheckoutActivity"
+68-->[:react-native-razorpay] D:\react-native\Wildroots\Wildroots\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-57
+69            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+69-->[:react-native-razorpay] D:\react-native\Wildroots\Wildroots\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-83
+70            android:exported="true"
+70-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:51:13-36
+71            android:theme="@style/CheckoutTheme" >
+71-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:52:13-49
+72            <intent-filter>
+72-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:53:13-59:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:13-65
+73-->D:\react-native\Wildroots\Wildroots\android\app\src\main\AndroidManifest.xml:21:21-62
+74
+75                <data
+75-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:15:13-17:38
+76                    android:host="rzp.io"
+77                    android:scheme="io.rzp" />
+77-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:17:17-35
+78            </intent-filter>
+79        </activity>
+80
+81        <provider
+81-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+82            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+82-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-83
+83            android:authorities="com.wildroots.fileprovider"
+83-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-64
+84            android:exported="false"
+84-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+85            android:grantUriPermissions="true" >
+85-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+86            <meta-data
+86-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:63
+87                android:name="android.support.FILE_PROVIDER_PATHS"
+87-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+88                android:resource="@xml/file_provider_paths" />
+88-->[:react-native-webview] D:\react-native\Wildroots\Wildroots\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-60
+89        </provider>
+90
+91        <receiver
+91-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:40:9-46:20
+92            android:name="com.razorpay.RzpTokenReceiver"
+92-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:41:13-57
+93            android:exported="false" >
+93-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:42:13-37
+94            <intent-filter>
+94-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:43:13-45:29
+95                <action android:name="rzp.device_token.share" />
+95-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:44:17-65
+95-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:44:25-62
+96            </intent-filter>
+97        </receiver>
+98
+99        <meta-data
+99-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:62:9-64:58
+100            android:name="com.razorpay.plugin.googlepay_all"
+100-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:63:13-61
+101            android:value="com.razorpay.RzpGpayMerged" />
+101-->[com.razorpay:checkout:1.6.26] C:\Users\Admin\.gradle\caches\transforms-3\a02a26ff4f8fc056c706eeef36014f19\transformed\jetified-checkout-1.6.26\AndroidManifest.xml:64:13-55
+102
+103        <activity
+103-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+104            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+104-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+105            android:excludeFromRecents="true"
+105-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+106            android:exported="false"
+106-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+107            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+107-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+108        <!--
+109            Service handling Google Sign-In user revocation. For apps that do not integrate with
+110            Google Sign-In, this service will never be started.
+111        -->
+112        <service
+112-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+113            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+113-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+114            android:exported="true"
+114-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+115            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Needs to be explicitly declared on P+ -->
+115-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e4e945602882bd2448a16c84d98e756d\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+116        <uses-library
+116-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+117            android:name="org.apache.http.legacy"
+117-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+118            android:required="false" />
+118-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Admin\.gradle\caches\transforms-3\8f3bc60fc8ee532802a8218b73fe568e\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+119
+120        <activity
+120-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Admin\.gradle\caches\transforms-3\45cdf3d9003203bd7d99a3752c1d90db\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+121-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Admin\.gradle\caches\transforms-3\45cdf3d9003203bd7d99a3752c1d90db\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+122            android:exported="false"
+122-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Admin\.gradle\caches\transforms-3\45cdf3d9003203bd7d99a3752c1d90db\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+123-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Admin\.gradle\caches\transforms-3\45cdf3d9003203bd7d99a3752c1d90db\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+124
+125        <meta-data
+125-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Admin\.gradle\caches\transforms-3\a0da74c7ae4f5cd232b57315fdbf9487\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+126            android:name="com.google.android.gms.version"
+126-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Admin\.gradle\caches\transforms-3\a0da74c7ae4f5cd232b57315fdbf9487\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+127            android:value="@integer/google_play_services_version" />
+127-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Admin\.gradle\caches\transforms-3\a0da74c7ae4f5cd232b57315fdbf9487\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+128    </application>
+129
+130</manifest>

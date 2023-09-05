@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wildroots.iml" filepath="$PROJECT_DIR$/.idea/modules/Wildroots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1297825583/Wildroots.@react-native-clipboard_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-1297825583/Wildroots.@react-native-clipboard_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wildroots.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wildroots.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wildroots.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wildroots.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wildroots.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wildroots.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wildroots.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wildroots.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/774673273/Wildroots.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-484752284/Wildroots.react-native-community_clipboard.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1232592276/Wildroots.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-633006157/Wildroots.react-native-masked-view_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1800395763/Wildroots.react-native-pager-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.iml" filepath="$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1583221278/Wildroots.react-native-razorpay.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/988997995/Wildroots.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2113143619/Wildroots.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-336843372/Wildroots.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1372086197/Wildroots.react-native-webview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-257953835/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
